@@ -28,6 +28,7 @@
     "commander": "^6.1.0",
     "ts-node": "^8.5.4",
     "typescript": "^3.7.3",
+    "ethers": "^5.0.7",
     "@truffle/hdwallet-provider": "^1.2.0",
     "truffle": "^5.1.58"
   }
